@@ -20,7 +20,7 @@ It is one of my favourite place since childhood . **India** is known for being o
     * Playing
     * Reading
 
-[AboutMe](https://github.com/sarikamanchala/assignment2-Manchala/blob/main/AboutMe.md)
+[AboutMe](AboutMe.md)
 
 ---
 
