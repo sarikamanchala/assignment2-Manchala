@@ -20,5 +20,18 @@ It is one of my favourite place since childhood . **India** is known for being o
     * Playing
     * Reading
 
-[AboutMe.md]()
+[AboutMe](https://github.com/sarikamanchala/assignment2-Manchala/blob/main/AboutMe.md)
+
+---
+
+# food Table
+
+following table describes food items lsweets which are famous in India
+| Name | Location | Cost |
+| --- | --- | --- |
+| Kaja | Kakinada| $50 |
+| Jilebhi | Karimnagar| $40 |
+| putharekhulu | Palakollu| $70|
+
+
 
