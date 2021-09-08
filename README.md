@@ -33,5 +33,12 @@ following table describes food items lsweets which are famous in India
 | Jilebhi | Karimnagar| $40 |
 | putharekhulu | Palakollu| $70|
 
+---
+
+# Pity Quotes
+>Every motherworks hard, and every women deserves to be respected *MichelleObama*
+
+>The greatest glory in living lies not in never falling, but in rising every time we fall. *Nelson Mandela*
+
 
 
