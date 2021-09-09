@@ -32,6 +32,7 @@ following table describes food items lsweets which are famous in India
 | Kaja | Kakinada| $50 |
 | Jilebhi | Karimnagar| $40 |
 | putharekhulu | Palakollu| $70|
+| Laddu | Thirapathi | $100|
 
 ---
 
